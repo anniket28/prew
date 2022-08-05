@@ -1,0 +1,4 @@
+{
+    "host":"http://localhost:3000",
+    "mongoURI":"mongodb+srv://root:6f8b7fbea16c@cluster0.ggg0yts.mongodb.net/prew"
+}
